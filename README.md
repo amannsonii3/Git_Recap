@@ -6,8 +6,6 @@ Cloning : can be done via SSH(using a key) or HTTPS(I used this will try the oth
 
 ## Subheader
 
-Ohh! Btw double hash "##" can give you a sub-header.
-
 *git status* : shows all the file that were updated, created or deleted but **haven't been updated in the stagging area yet.**
 
 *git init* : if you want to start tracking a completely new folder.
