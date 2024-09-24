@@ -3,6 +3,7 @@
 .md - markdown type files: holds various symbols for different commands and text font playing stuff (hashtags-headers, *asterisks*, __underscores__, etc.)
 
 Cloning : can be done via SSH(using a key) or HTTPS(I used this will try the other one next time soon).
+https://youtu.be/USjZcfj8yxE?feature=shared
 
 ## Subheader
 
